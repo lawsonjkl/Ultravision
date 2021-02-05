@@ -121,3 +121,73 @@ a:hover {
 	height: 8px;
 	background-color: #6236ffbd;
 	}
+
+.bloc {
+display: flex;
+justify-content: space-around;
+align-items: stretch;
+text-align: justify;
+}
+
+.colonnes1{
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.colonnestexte{
+  padding-left: 48px;
+  padding-right: 32px;
+}
+
+.colonnestexte2{
+  padding-left: 33px;
+  padding-right: 47px;
+}
+
+.bloc2 {
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+text-align: justify;
+}
+
+.colonnes2{
+  flex-basis: 0;
+  flex-grow: 1;
+}
+.ordinateur-1 {
+  width: 487px;
+  height: 471px;
+  object-fit:contain;
+  display: block;
+  margin-left: auto;
+}
+
+.ordinateur-2{
+  width: 487px;
+  height: 471px;
+  object-fit:contain;
+  display: block;
+  margin-right: auto;
+}
+
+.titre1{
+  margin-top: 0px;
+  margin-bottom: 34px;
+  font-size: 24px;
+text-align: center;}
+
+.titre2.{
+  margin-top: 64px;
+  margin-bottom: 34px;
+  margin-right: 33px;
+  font-size: 24px;
+text-align: center;}
+
+.texte1{
+  width: 640px;
+  height: 345px;
+  margin-left: 48px;
+  margin-right: 752px
+  font-size: 16px;
+}
