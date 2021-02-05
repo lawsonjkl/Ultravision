@@ -62,4 +62,62 @@ a:hover {
 * ----------
 * Components
 * ----------
-*/
+*/	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	color: #231f20;
+	}
+	/* styles de paragraphe par défaut */
+	p, li, textarea, label, input, select {
+	}
+	/* titre d'entête */
+	h1 {
+	font-size: 88px;
+	}
+	/* titre de section */
+	h2 {
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	}
+	/**
+	* ------
+	* Layout
+	* ------
+	*/
+	/**
+	* ----------
+	* Components
+	* ----------
+	*/
+	.header-title {
+	padding: 15px;
+	background-color: #fcce00bd;
+	color: #ffffff;
+	text-align: center;
+	font-weight: 900;
+	line-height: 1;
+	}
+	.header-subtitle {
+	padding: 15px;
+	font-size: 38px;
+	background-color: #ff6b00bd;
+	color: #ffffff;
+	text-align: center;
+	font-weight: 900;
+	line-height: 1;
+	}
+	.header-stripe {
+	margin: 8px 0;
+	}
+	.header-stripe--red {
+	height: 32px;
+	background-color: #e02020bd;
+	}
+	.header-stripe--purple {
+	height: 16px;
+	background-color: #b620e0bd;
+	}
+	.header-stripe--blue {
+	height: 8px;
+	background-color: #6236ffbd;
+	}
