@@ -190,4 +190,28 @@ text-align: center;}
   margin-left: 48px;
   margin-right: 752px
   font-size: 16px;
+.bouton-1 {
+  width: 185px;
+  height: 48px;
+  margin-left: 420px;
+  margin-right: 0px;
+  margin-bottom: 22px;
+  padding: 7px 37px;
+  border-radius: 15px;
+  color: #fcce00;
+  border: solid 4px;
+  font-weight: bold;
+}
+
+.bouton-2 {
+  width: 185px;
+  height: 48px;
+  margin-left: 420px;
+  margin-right: 0px;
+  margin-bottom: 22px;
+  padding: 7px 37px;
+  border-radius: 15px;
+  color: #ff6b00;
+  border: solid 4px;
+  font-weight: bold;
 }
