@@ -20,6 +20,9 @@ body {
 	font-weight: bold;
 	}
 
+	label {
+		display: block;
+}
 	.header-title {
 	padding: 15px;
 	background-color: #fcce00bd;
@@ -348,3 +351,50 @@ text-align: center;
   letter-spacing: normal;
   text-align: center;
   color: #ffffff;
+}
+
+.blockform{
+	display: flex;
+	justify-content: space-around;
+	align-items: stretch;
+	text-align: justify;
+	color: white;
+	padding-bottom: 597px;
+	border-radius: 10px;
+}
+.colonneform2{
+	margin-right: auto;
+}
+.colonneform1{
+margin-right: 64px;
+margin-left: 248px;
+}
+
+#message{
+	width: 560px;
+  height: 212px;
+	border-radius: 8px;
+}
+
+.form-row{
+	padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 28px;
+  padding-left: 8px;
+}
+
+#name{
+	border-radius: 8px;
+	height: 38px;
+}
+
+#subject{
+border-radius: 8px;
+height: 38px;
+width: 320px.
+}
+
+#email{
+	border-radius: 8px;
+	height: 38px;
+}
