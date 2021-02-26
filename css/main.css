@@ -386,15 +386,18 @@ margin-left: 248px;
 #name{
 	border-radius: 8px;
 	height: 38px;
+	border-color: #231f20;
 }
 
 #subject{
 border-radius: 8px;
 height: 38px;
-width: 320px.
+width: 200px;
+border-color: #231f20;
 }
 
 #email{
 	border-radius: 8px;
 	height: 38px;
+	 border-color: #231f20;
 }
